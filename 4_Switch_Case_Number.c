@@ -20,12 +20,6 @@ void main (void)
 		case 3:
 			printf ("Three \n\n");
 			break;
-//		case 'g':
-//			printf ("\n The capital of g is G. \n\n");
-//			break;
-//		case 'q':
-//			printf ("\n The capital of q is Q. \n\n");
-//			break;
 		default:
 			printf ("\n I don't recognize %i. \n\n", number);
 	}
